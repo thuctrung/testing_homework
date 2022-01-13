@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Selenium_webdriver_java_testNG.Selenium_webdriver_java_testNG.Topic_02_Homework">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_05_Register_Incorrect_Password"/>
+          <include name="TC_06_Register_Invalid_Phone"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- Selenium_webdriver_java_testNG.Selenium_webdriver_java_testNG.Topic_02_Homework -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
